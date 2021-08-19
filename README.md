@@ -73,3 +73,5 @@ Plots the results of the pass and fail sums into a bar graph.
 ```
 my_plot = category_pf.plot(kind='bar',title="Pass/Fail results of seven-day-averages in Department") my_plot.set_xlabel("Pass or Fail Results") my_plot.set_ylabel("Amount")
 ```
+
+
